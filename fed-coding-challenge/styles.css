@@ -1,0 +1,83 @@
+
+.custom-font{
+    font-family: Helvetica, sans-serif
+ }
+
+ .purple-header{
+   color: #640B5F
+ }
+
+ li a:hover {
+     background-color: #0D6997;
+ }
+
+ #nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3890C0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ #awesome-div{
+   background-color:gray;
+   margin-right: 550px
+ }
+
+#table{
+  background-color:gray;
+}
+
+#main-div{
+  border: 1px solid black;
+  margin-left: 50px;
+  margin-right: 350px;
+  margin-bottom: 100px;
+  padding-bottom: 300px;
+}
+
+#phone-div{
+  background-color:#BBD7C4;
+  margin-top: 40px;
+  padding-top: 1px;
+  padding-left: 20px;
+  padding-bottom: 5px;
+}
+
+#mobile-header{
+   margin-top: 7px;
+}
+
+#phone-pag{
+  padding-top: 10px;
+  margin-top: 1px;
+  margin-right: 100px;
+
+}
+
+#rates{
+ padding-top: 20px;
+ padding-bottom:20px;
+ color:gray;
+
+}
+
+.footer {
+    width: 100%;
+    background-color:#E7E8E9;
+    color:#4B99C4;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
